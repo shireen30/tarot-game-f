@@ -1,1 +1,1 @@
-# tarot-game-f
+# kangaroo-game
